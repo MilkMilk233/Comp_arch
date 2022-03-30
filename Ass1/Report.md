@@ -1,6 +1,5 @@
 # CSC3050 Assignment1 
 
-Chen Zhixin, 120090222
 
 **This project use C++ as programming language.**
 
