@@ -8,3 +8,5 @@ In the assignments, full marks are attained except for 2 points deduction in the
 
 Wish all of you be a great engineer and good luck! 0v0
 
+*Recommended Prerequisites: EIE2050 + CSC3002*
+
